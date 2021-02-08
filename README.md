@@ -5,3 +5,10 @@ Unleash the drummer inside you!!!
 
 # Introduction 📒
 In this website, you can play some drums by just pressing not only the buttons on the screen but also keyboard buttons w,a,s,d,j,k,l
+# Technology Stack 🎮
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+
+# Screenshots 📷
