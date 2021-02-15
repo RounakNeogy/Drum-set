@@ -1,5 +1,5 @@
 # Drum-set 🥁🥁
-Unleash the drummer inside you!!! https://rounakneogy.github.io/Drum-set
+Unleash the drummer inside you!!! https://rounakneogy.github.io/Drum-set/
 <br/>
 <p align="center"><img align="center" src="https://media.giphy.com/media/mP9B4usicJniM/giphy.gif" width="200"><p/>
 
